@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    vmstat (2.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  vmstat (~> 2.1)
+
+BUNDLED WITH
+   1.17.2
